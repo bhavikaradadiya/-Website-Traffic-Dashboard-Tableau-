@@ -1,11 +1,11 @@
 # -Website-Traffic-Dashboard-Tableau-
 Cleaned and transformed website traffic dataset for analysis.  Built an interactive Tableau dashboard analyzing conversion rate, bounce rate, and traffic sources.  Delivered insights on user engagement to support marketing strategy optimization
 
-# Author: Bhavikaben Radadiya
-# Affiliation: Berlin School of Business and Innovation (BSBI) – MSc Data Analytics
-# Year: 2025
+<H4>Author: Bhavikaben Radadiya</h4>
+<H4>Affiliation: Berlin School of Business and Innovation (BSBI) – MSc Data Analytics</H4>
+<H4>Year: 2025</H4>
 
-# 📘 Project Overview
+<H3>📘 Project Overview</H3>
 
 This project analyzes an e-commerce website’s traffic data to uncover user behavior patterns, high-performing channels, and conversion bottlenecks.
 
@@ -15,7 +15,7 @@ Identify high-value traffic sources
 Reduce bounce rates
 Improve conversion performance
 
-# 💼 Business Context
+<H3> 💼 Business Context </H3>
 
 E-commerce companies often invest heavily in marketing without fully understanding:
 
@@ -25,7 +25,7 @@ How engagement impacts revenue
 
 This dashboard provides data-driven answers to these problems.
 
-# 📊 Dashboard Preview
+<H3>📊 Dashboard Preview </H3>
 
 🔍 Key Business Insights
 1. Organic Traffic Drives the Most Value
