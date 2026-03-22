@@ -12,7 +12,9 @@ This project analyzes an e-commerce website’s traffic data to uncover user beh
 The goal is to help businesses:
 
 Identify high-value traffic sources
+
 Reduce bounce rates
+
 Improve conversion performance
 
 <H3> 💼 Business Context </H3>
