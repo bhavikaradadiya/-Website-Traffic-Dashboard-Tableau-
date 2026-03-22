@@ -22,7 +22,9 @@ Improve conversion performance
 E-commerce companies often invest heavily in marketing without fully understanding:
 
 Which channels actually convert
+
 Why users leave the website
+
 How engagement impacts revenue
 
 This dashboard provides data-driven answers to these problems.
