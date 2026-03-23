@@ -9,47 +9,50 @@ Cleaned and transformed website traffic dataset for analysis.  Built an interact
 
 This project analyzes an e-commerce website’s traffic data to uncover user behavior patterns, high-performing channels, and conversion bottlenecks.
 
-The goal is to help businesses:
+The **goal** is to help businesses:
 
-Identify high-value traffic sources
+  Identify high-value traffic sources
 
-Reduce bounce rates
+  Reduce bounce rates
 
-Improve conversion performance
+  Improve conversion performance
 
 <H3> 💼 Business Context </H3>
 
 E-commerce companies often invest heavily in marketing without fully understanding:
 
-Which channels actually convert
+  Which channels actually convert
 
-Why users leave the website
+  Why users leave the website
 
-How engagement impacts revenue
+  How engagement impacts revenue
 
 This dashboard provides data-driven answers to these problems.
 
 <H3>📊 Dashboard Preview </H3>
 
-🔍 Key Business Insights
-1. Organic Traffic Drives the Most Value
-~40% of traffic comes from organic sources
-Highest engagement + best conversion balance
+🔍 **Key Business Insights**
+  1. Organic Traffic Drives the Most Value 
 
-### 👉 Action: Increase SEO investment and content strategy
+  ~40% of traffic comes from organic sources
+
+  Highest engagement + best conversion balance
+
+ **👉 Action:** Increase SEO investment and content strategy
 
 2. Paid Traffic Has High Bounce Rates
-Paid & social channels show poor retention
-Especially weak performance from new users
+   
+Paid & social channels show poor retention Especially weak performance from new users
 
-### 👉 Action: Improve ad targeting & landing page relevance
+ **👉 Action:** Improve ad targeting & landing page relevance
 
-3. Returning Users Convert More
+4. Returning Users Convert More
+   
 Repeat visitors show significantly higher conversion rates
 
-👉 Action: Focus on retention strategies (email, remarketing)
+**👉 Action:** Focus on retention strategies (email, remarketing)
 
 4. Engagement Directly Impacts Conversion
 Higher session duration & page views → higher conversions
 
-👉 Action: Optimize UX and content to increase engagement
+**👉 Action:** Optimize UX and content to increase engagement
