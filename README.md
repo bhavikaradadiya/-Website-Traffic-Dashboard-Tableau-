@@ -31,7 +31,12 @@ This dashboard provides data-driven answers to these problems.
 
 <H3>📊 Dashboard Preview </H3>
 
-🔍 **Key Business Insights**
+<img width="1207" height="900" alt="Dashboard" src="https://github.com/user-attachments/assets/c1aecf8d-ef79-41fe-a5d2-d70ef94a9b7a" />
+
+
+
+
+<H3>Key Business Insights</H3>
 
  **1. Organic Traffic Drives the Most Value**
 
@@ -82,9 +87,9 @@ Data cleaning (missing values, validation)
 
 Feature engineering:
 
-  Returning visitor flag
+  1. Returning visitor flag
   
-  Engagement score
+  2. Engagement score
   
 Data visualization in Tableau
 
@@ -117,11 +122,14 @@ Funnel & cohort analysis
 Predictive modeling (conversion prediction)
 
 <H3>🔗 Links</H3>
-📊 Tableau Dashboard: [Add link]
 
-📓 Colab Notebook: [Add link]
+    Dataset Link:  [https://www.kaggle.com/datasets/anthonytherrien/website-traffic]
 
-📄 Full Report: docs/full-report.pdf
+📊 Tableau Dashboard: []
+
+📓 Colab Notebook: [https://colab.research.google.com/drive/1yUG9u8cLeT-MMk1Gobre74q0occS6FPV]
+
+
 
 <H3>👤 Author </H3>
 
