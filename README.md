@@ -90,24 +90,41 @@ Data visualization in Tableau
 
 <H3>📊 Key Metrics</H3>
 
-Page Views \n
+Page Views 
+
 Session Duration
+
 Bounce Rate
+
 Traffic Source
+
 Conversion Rate
-⚠️ Limitations
+
+<H3>⚠️ Limitations </H3>
+
 Static dataset (no real-time tracking)
+
 No device/location segmentation
+
 Limited user journey tracking
-🔮 Future Improvements
+
+<H3>🔮 Future Improvements</H3>
+
 Real-time data integration (Google Analytics)
+
 Funnel & cohort analysis
+
 Predictive modeling (conversion prediction)
-🔗 Links
+
+<H3>🔗 Links</H3>
 📊 Tableau Dashboard: [Add link]
+
 📓 Colab Notebook: [Add link]
+
 📄 Full Report: docs/full-report.pdf
-👤 Author
+
+<H3>👤 Author </H3>
 
 Bhavika Radadiya
+
 MSc Data Analytics
