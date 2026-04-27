@@ -105,7 +105,7 @@ Traffic Source
 
 Conversion Rate
 
-## >📘Resume Highlights ##
+## 📘Resume Highlights ##
 
 Dataset
 - 2,000+ website traffic records from Kaggle
