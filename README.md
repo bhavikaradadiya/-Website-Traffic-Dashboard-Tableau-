@@ -36,7 +36,7 @@ This dashboard provides data-driven answers to these problems.
 
 
 
-<H3>Key Business Insights</H3>
+<H3> Analytical Insights</H3>
 
  **1. Organic Traffic Drives the Most Value**
 
@@ -46,7 +46,7 @@ This dashboard provides data-driven answers to these problems.
 
  **👉 Action:** Increase SEO investment and content strategy
 
-**2. Paid Traffic Has High Bounce Rates**
+**2. Paid and Social Channels Show Higher Bounce Risk**
    
   Paid & social channels show poor retention Especially weak performance from new users
 
@@ -58,7 +58,7 @@ This dashboard provides data-driven answers to these problems.
 
 **👉 Action:** Focus on retention strategies (email, remarketing)
 
-**4. Engagement Directly Impacts Conversion**
+**4. Higher Engagement Correlates with Stronger Conversion Performance**
 Higher session duration & page views → higher conversions
 
 **👉 Action:** Optimize UX and content to increase engagement
@@ -104,6 +104,25 @@ Bounce Rate
 Traffic Source
 
 Conversion Rate
+
+## >📘Resume Highlights ##
+
+Dataset
+- 2,000+ website traffic records from Kaggle
+
+Methods
+- Data cleaning and validation
+- Feature engineering and segmentation
+- KPI and engagement analysis
+- Interactive dashboard development in Tableau
+
+Insights Generated
+- Organic traffic accounted for ~40% of visits and showed strongest conversion performance
+- Returning visitors exhibited higher conversion potential
+- Paid/social channels revealed bounce-rate optimization opportunities
+
+Project Value
+- Delivered insights supporting conversion optimization, retention strategy, and user experience improvements
 
 <H3>⚠️ Limitations </H3>
 
