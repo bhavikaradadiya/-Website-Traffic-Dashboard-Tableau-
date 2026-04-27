@@ -30,6 +30,7 @@ E-commerce companies often invest heavily in marketing without fully understandi
 This dashboard provides data-driven answers to these problems.
 
 <H3>📊 Dashboard Preview </H3>
+ [https://public.tableau.com/app/profile/bhavikaben.radadiya/viz/Website_Traffic_Analysis/Dashboard1]
 
 <img width="1207" height="900" alt="Dashboard" src="https://github.com/user-attachments/assets/c1aecf8d-ef79-41fe-a5d2-d70ef94a9b7a" />
 
